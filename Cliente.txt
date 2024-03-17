@@ -1,0 +1,6 @@
+public class Cliente {
+ 
+	public static cvoid main {String [] args){
+		System.out.printl("Hola mundo");
+	}
+}
